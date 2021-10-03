@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I am a data science practitioner. 
+- A data science practitioner. 
 - Works on Machine Learning and Deep Learning Projects.
 - Keen interest in Natural Language Processing.
 
